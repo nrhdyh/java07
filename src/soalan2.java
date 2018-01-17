@@ -28,5 +28,6 @@ public class soalan2 {
       System.out.println("Jumlah markah keseluruhan : "+jumlah);
       System.out.println("Purata markah keseluruhan : "+purata);
       System.out.println("Peratus markah keseluruhan : "+peratus);
+      System.out.println("hai");
   }  
 }
